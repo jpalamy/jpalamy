@@ -4,7 +4,7 @@
 
 Haiti · Working at the intersection of education, technology, digital innovation, institutional strengthening, and humanitarian response.
 
-[LinkedIn](https://www.linkedin.com/in/jpalamy/) · [Email](mailto:jpalamy@gmail.com) · [Omniscient Info](https://omniscientinfo.com) · [Lekòl Konekte](https://lekolkonekte.com) · [Mèt Patrik AI](https://metpatrik.com) · [SYGIPE](https://sygipe.com)
+[LinkedIn](https://www.linkedin.com/in/jpalamy/) · [Email](mailto:jpalamy@gmail.com) · Omniscient Info · [Lekòl Konekte](https://lekolkonekte.com) · [Mèt Patrik AI](https://metpatrik.com) · [SYGIPE](https://sygipe.com)
 
 ---
 
@@ -122,7 +122,7 @@ I welcome collaboration on:
 
 - **LinkedIn:** https://www.linkedin.com/in/jpalamy/
 - **Email:** jpalamy@gmail.com
-- **Omniscient Info:** https://omniscientinfo.com
+- **Omniscient Info:** Editor-in-Chief since 2021
 - **Lekòl Konekte:** https://lekolkonekte.com
 - **Mèt Patrik AI:** https://metpatrik.com
 - **SYGIPE:** https://sygipe.com
